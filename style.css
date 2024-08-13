@@ -20,7 +20,7 @@ body {
     padding: 1rem 10%;
     display: flex;
     justify-content: space-between;
-    align-itemxs: center;
+    align-items: center;
     z-index: 100;
 }
 .header::before {
@@ -117,7 +117,7 @@ body {
 .hero {
     padding: 9rem 5rem 0rem 5rem;
     margin-top: 0px;
-    background-image: url(./Images/—Pngtree—abstract\ 80s\ trendy\ geometric\ background_1157555.png);
+    background-image: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cover-photo%2Cbackground%2C-technology-design-template-d7e7283570838b88ee81709a320e562a_screen.jpg?ts=1597391993);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
